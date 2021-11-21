@@ -1,0 +1,7 @@
+name: ManHuntBuffs
+version: ${project.version}
+main: valiblackdragon.manhuntinvistwist.main
+api-version: 1.16
+commands:
+  sacrifice:
+    description: get more points to use buffs
